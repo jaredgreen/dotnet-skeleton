@@ -1,4 +1,4 @@
-namespace UnitTests.ArgumentCaptorExamples.EmailExample
+namespace dotnet_skeleton.UnitTests.ArgumentCaptorExamples.ArgumentCaptorExamples.EmailExample
 {
     public interface IEmailService
     {

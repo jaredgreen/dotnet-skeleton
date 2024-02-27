@@ -1,6 +1,6 @@
 using dotnet_skeleton.UnitTests.ArgumentCaptorExamples.ArgumentCaptorExamples.EmailExample.ThirdPartySoftware;
 
-namespace UnitTests.ArgumentCaptorExamples.EmailExample
+namespace dotnet_skeleton.UnitTests.ArgumentCaptorExamples.ArgumentCaptorExamples.EmailExample
 {
     public class EmailService : IEmailService
     {

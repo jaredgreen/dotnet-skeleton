@@ -2,7 +2,6 @@
 using dotnet_skeleton.UnitTests.ArgumentCaptorExamples.ArgumentCaptorExamples.EmailExample.ThirdPartySoftware;
 using dotnet_skeleton.UnitTests.Helpers;
 using NSubstitute;
-using UnitTests.ArgumentCaptorExamples.EmailExample;
 
 namespace dotnet_skeleton.UnitTests.ArgumentCaptorExamples.ArgumentCaptorExamples.EmailExample
 {
